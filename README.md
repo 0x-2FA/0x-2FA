@@ -56,7 +56,7 @@
 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=0x-2FA&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="0x-2FA language stats" 
     bg_color=#808080/></p>
 
 ## Connect with me
