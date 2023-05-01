@@ -55,7 +55,7 @@
 ![Android](https://img.shields.io/badge/Android-000?&logo=android&logoColor=3DDC84)
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=0x-2FA&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats-2on1.vercel.app/api/top-langs?username=0x-2FA&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="0x-2FA language stats" 
     bg_color=#808080/></p>
 
