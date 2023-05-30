@@ -63,4 +63,5 @@
 
 <a href="mailto:apostolosideris@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-000?&logo=gmail&logoColor=D14836" alt="apostolosideris@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/apostolos-sideris-39aa12269" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-000?&logo=linkedin&logoColor=0077B5" alt="linkedin.com/in/apostolos-sideris-39aa12269"/></a>
+<a href="https://t.me/apo_sid"><img align="center" src="https://img.shields.io/badge/Telegram-000?&logo=telegram&logoColor=1ea0e0" alt="t.me/apo_sid"/></a>
 <a href="https://www.discordapp.com/users/0623" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-000?&logo=discord&logoColor=235865F2" alt="hridoyalhazard"/></a>
