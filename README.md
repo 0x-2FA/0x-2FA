@@ -22,7 +22,6 @@
 ## Frameworks
 
 ![.Net](https://img.shields.io/badge/.NET-000?&logo=.net&logoColor=AF81FF)
-![NodeJS](https://img.shields.io/badge/Node.js-000?&logo=node.js&logoColor=green)
 ![Express.js](https://img.shields.io/badge/Express.js-000?&logo=express&logoColor=%2361DAFB)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-000?&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vue.js](https://img.shields.io/badge/Vue-000?&logo=vuedotjs&logoColor=%234FC08D)
@@ -32,6 +31,7 @@
 
 ![Git](https://img.shields.io/badge/Git-000?&logo=git&logoColor=23F05033)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![NodeJS](https://img.shields.io/badge/Node.js-000?&logo=node.js&logoColor=green)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![JWT](https://img.shields.io/badge/JWT-000?&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/npm-000?&logo=npm&logoColor=23CB3837)
